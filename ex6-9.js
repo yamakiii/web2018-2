@@ -1,4 +1,4 @@
-function txtchange1(){
+function txtchange69(){
 document.getElementById('txt1').innerHTML='ナンバーワン！';}
-}
-function imgchange1(){document.getElementById('logo').src='./image/josai2.jpg';}
+
+function imgchange69(){document.getElementById('logo').src='./image/josai2.jpg';}
